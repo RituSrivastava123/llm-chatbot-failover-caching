@@ -6,11 +6,11 @@
 
 ## 1. Live URLs
 
-- **Frontend Application:** `https://your-frontend-domain.vercel.app` *(Replace with deployed URL)*
-- **Backend API Base URL:** `https://your-backend-domain.onrender.com` *(Replace with deployed URL)*
-- **Health Check Endpoint:** `https://your-backend-domain.onrender.com/health`
-- **GitHub Repository:** `https://github.com/your-username/llm-chatbot-failover-caching` *(Public repository)*
-- **Demo Video (2–3 mins):** `https://loom.com/share/...` *(or Google Drive link)*
+- **Frontend Application:** `https://llm-chatbot-failover-caching.vercel.app` *(Pending Vercel deployment)*
+- **Backend API Base URL:** `https://llm-chatbot-backend-py4h.onrender.com`
+- **Health Check Endpoint:** `https://llm-chatbot-backend-py4h.onrender.com/health`
+- **GitHub Repository:** `https://github.com/RituSrivastava123/llm-chatbot-failover-caching`
+- **Demo Video (2–3 mins):** `https://loom.com/share/...` *(Pending recording)*
 
 ---
 
