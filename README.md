@@ -10,7 +10,7 @@
 - **Backend API Base URL:** `https://llm-chatbot-backend-py4h.onrender.com`
 - **Health Check Endpoint:** `https://llm-chatbot-backend-py4h.onrender.com/health`
 - **GitHub Repository:** `https://github.com/RituSrivastava123/llm-chatbot-failover-caching`
-- **Demo Video (2–3 mins):** *(Link to your recorded Loom or Google Drive video)*
+- 
 
 ---
 
